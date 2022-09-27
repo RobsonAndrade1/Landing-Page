@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+
+header {
+    width: 970px;
+    margin: 20px 200px;
+}
+
+header h1 {
+    text-transform: uppercase;
+    font-size: 3em;
+    font-weight: bold;
+    color: #FEBD17;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+}
+
+main h3 {
+    width: 970px;
+    margin: 20px 200px;
+}
+
+.imagem {
+    width: 800px;
+    height: 700px;
+}
+
+main p {
+    margin: 0 200px;
+    font-size: 20px;
+    color: #328561;
+}
+
+main strong {
+    font-weight: bold;
+}
+
+main italic {
+    font-style: italic;
+}
+
+.campo {
+    position: absolute;
+	top: 165px;
+	right: 0;
+}
+    
