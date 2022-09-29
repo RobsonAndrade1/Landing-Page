@@ -74,3 +74,80 @@ main italic {
 #botao:hover {
     background: #328561;
 }
+
+@media screen and (max-width: 600px) {
+
+body {
+    background-color: black;
+}
+
+header {
+    width: auto;
+    margin: 20px;
+}
+
+header h1 {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #FEBD17;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: bold;
+    color: white;
+}
+
+main h3 {
+    width: auto;
+    margin: 20px;
+}
+
+.imagem {
+    width: 300px;
+    height: 200px;
+}
+
+main p {
+    margin: 0 20px;
+    font-size: 15px;
+    color: #328561;
+}
+
+main strong {
+    font-weight: bold;
+}
+
+main italic {
+    font-style: italic;
+}
+
+.campo {
+    width: 125px;
+    height: 50px;
+    margin-top: 220px;
+}
+
+.campo input {
+    width: 200px;
+    border-radius: 10px;
+    border: solid 2px black;
+}
+
+#botao {
+    width: 120%;
+    margin-top: 10px;
+    background-color:#D79E11 ;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 1s all;
+}
+
+#botao:hover {
+    background: #328561;
+}
+
+}
