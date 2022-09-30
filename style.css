@@ -9,14 +9,14 @@ header {
 
 header h1 {
     text-transform: uppercase;
-    font-size: 3em;
+    font-size: 4.6em;
     font-weight: bold;
     color: #FEBD17;
 }
 
 h2 {
     text-transform: uppercase;
-    font-size: 2em;
+    font-size: 3em;
     font-weight: bold;
     color: white;
 }
@@ -47,7 +47,7 @@ main italic {
 
 .campo {
     position: absolute;
-	top: 165px;
+	top: 220px;
 	right: 0;
     margin: 0 200px;
     width: 300px;
@@ -125,9 +125,9 @@ main italic {
 }
 
 .campo {
-    width: 125px;
+    width: 120px;
     height: 50px;
-    margin-top: 220px;
+    margin-top: 165px;
 }
 
 .campo input {
