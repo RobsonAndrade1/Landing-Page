@@ -12,3 +12,7 @@ Depois do meu primeiro projeto resolvi dar mais atenção para a parte dos input
 ### @Media
 Nesse projeto eu trouxe também um @media, que se trata de organizar a exibição da página em telas menores como de celulares por exemplo. 
 
+### Linguagens:
+* HTML
+* CSS
+
